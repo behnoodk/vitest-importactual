@@ -1,0 +1,21 @@
+{
+  "name": "@myorg/testsrv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "private": true,
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@myorg/testpkg": "*",
+    "@myorg/testpkgts": "*",
+    "c8": "^7.12.0",
+    "typescript": "^4.7.4",
+    "vitest": "^0.19.1"
+  }
+}

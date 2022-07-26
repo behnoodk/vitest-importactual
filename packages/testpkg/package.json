@@ -1,0 +1,10 @@
+{
+  "name": "@myorg/testpkg",
+  "version": "1.0.0",
+  "license": "ISC",
+  "main": "./index.js",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
